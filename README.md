@@ -28,6 +28,19 @@
 * s ConcurrentHashMap/ConcurrentSkipListMap/ConcurrentSkipListSet/CopyOnWriteArrayList/CopyOnWriteArraySet
 * m Atomic/compareAndSet
 
+### Java Multithreading/Concurrency
+* wait/notify
+* Thread.sleep()/Thread.yield()/Thread.join()
+* ThreadLocal
+* Memory Model (happen-before)
+* Memory Consistency Properties
+* "synchronized" block/"volatile" keyword
+* Executors/ExecutorServices - ThreadPoolExecutor/ScheduledThreadPoolExecutor, FutureTask/ForkJoinTask
+* ConcurrentLinkedQueue/ConcurrentLinkedDeqeue
+* LinkedBlockingQueue/ArrayBlockingQueue/SynchronousQueue/PriorityBlockingQueue/DelayQueue/TransferQueue(LinkedTransferQueue)
+* Semaphore/CountDownLatch/CyclicBarrier/Phaser/Exchanger
+* ConcurrentHashMap/ConcurrentSkipListMap/ConcurrentSkipListSet/CopyOnWriteArrayList/CopyOnWriteArraySet
+
 ### Rx2
 * m Observable/Single/MayBe/Completable + XxxSource
 * s Flowable and backpressure
